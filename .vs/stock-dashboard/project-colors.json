@@ -35,7 +35,12 @@
       "ProjectGuid": "c8f9498d-88a2-4d38-b60f-1dc879cffde6",
       "DisplayName": "Workflows",
       "ColorIndex": 5
+    },
+    "21d4eefb-d003-4407-80a7-56470f796c2c": {
+      "ProjectGuid": "21d4eefb-d003-4407-80a7-56470f796c2c",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
