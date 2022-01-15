@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cZajzmVIQ+VP3YkzqwBxioW3aoPRpgFTlty8JdeBPOh8LX1s2KdRPW1ZoZgRY0+BMZNLda7eE2Zh38+0DjXf9A==",
+  "dgSpecHash": "RYmubmf8dl/Q4hWXWsH556HxuFp0CFwSih/OIUPiAiiBp0mt6qgv2+NhOF/YvDa4zz+XQDDrw46DgoWD5b8e6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\awhit\\source\\repos\\Stock Dashboard\\ApiGateway\\ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\awhit\\source\\repos\\Stock Dashboard\\Web\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\awhit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\awhit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

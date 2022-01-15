@@ -5,7 +5,22 @@
       "ProjectGuid": "565e5b1c-36d5-4b89-b00f-cb6c106b318b",
       "DisplayName": "Application",
       "ColorIndex": 0
+    },
+    "4eeacace-0fde-4108-91c2-219141f025ac": {
+      "ProjectGuid": "4eeacace-0fde-4108-91c2-219141f025ac",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "2bac9c99-38ec-4bff-84d0-9ef6edb543ae": {
+      "ProjectGuid": "2bac9c99-38ec-4bff-84d0-9ef6edb543ae",
+      "DisplayName": "Functions",
+      "ColorIndex": 2
+    },
+    "d12e8f9b-6cae-49ba-b8b1-1d7218b9e7f8": {
+      "ProjectGuid": "d12e8f9b-6cae-49ba-b8b1-1d7218b9e7f8",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
